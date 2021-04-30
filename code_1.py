@@ -19,10 +19,10 @@ auth.set_access_token(input("Enter Access Token:"),input("Enter Access Token Sec
 api=tweepy.API(auth)
 
 # my keys
-api_key="Yu57H3td2vzgTVdbKNGdk72nm"
-api_secret="ppG2QS0mDYovKxugabGzvTkXeCEexgx4PzDCSYqRzfg98uPh9b"
-access_token="1100437002560905216-LRfCLlD1jIQmae7aSJgK2RsAToR1Cx"
-access_token_secret="Zj7CjrIf0sNp4WBniRm4coOeQPCXUnJJE0o28BjcmDjEk"
+api_key=" ........ "
+api_secret=".........."
+access_token="..............."
+access_token_secret="...................."
 
 #extracting tweets of any site
 word=input("Enter the shopping site of which tweets are to be extracted:")
